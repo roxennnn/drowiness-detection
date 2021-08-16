@@ -1,11 +1,14 @@
+# Drowsiness And Eye Status Detection Exercise Project
 
-## WHAT YOU CAN FIND: (to be updated)	
+A small exercise project to detect if a person's eyes are open or closed, in order to detect if that person is awake or falling asleep.
+
+## What you can find:
 
 * *eye_blinking_detection_p2.py* : testing code
 * *shape_predictor_68_face_landmarks.dat* : needed to run the code
 * *monitor_eye_care_system_using_blink.pdf* : paper about different techinques for blinking detection
-
-## Last works:
+* *saved_models.zip* : zip file storing saved models
+* *requirements.txt* : file listing all the dependencies
 * *get_landmarks*: used to get the face landmarks of a given image or from webcam
 * *NN*: folder with the NN implemented so far (naive approach)
 	* *NaiveNotebook.ipynb*: notebook with fancy utility functions for training a CNN with the 'dataset_b_Eye_images'
@@ -19,3 +22,7 @@
 
 ## Notes:
 All programs were developed and tested on Ubuntu OS. Other operating systems may have some problems.
+
+## How to run
+TODO
+
